@@ -2,4 +2,19 @@ body {
 background-color: rgb(93, 238, 248);
 color: rgb(0, 2, 4);
 font-family: "Fjalla One", sans-serif;
+display: flex;
+justify-content: center;
+align-items: center;
+height: 700px;
+margin: 0;
+
+
+}
+button {
+    background-color: aquamarine;
+    color: rgb(9, 91, 35);
+    font-family:''Fjalla One", sans-serif;
+
+
+
 }
